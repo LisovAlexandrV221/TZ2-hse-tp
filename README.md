@@ -5,4 +5,4 @@
 
 # Лисов Александр 221
 
-### ![example workflow](<https://github.com/LisovAlexandrV221/TZ2-hse-tp.git>/actions/workflows/github-actions-demo.yml/badge.svg) https://github.com/viafanasyev/tp-hse-2022-hw.git
+### ![example workflow](<https://github.com/LisovAlexandrV221/TZ2-hse-tp.git>/actions/workflows/github-actions-demo.yml/badge.svg) 
